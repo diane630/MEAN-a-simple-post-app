@@ -1,3 +1,6 @@
+#a little demo deployed on AWS：
+http://angularbuild-dy1.s3-website-us-west-2.amazonaws.com/
+
 # MeanCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
