@@ -1,4 +1,4 @@
-#a little demo deployed on AWS：
+# a little demo deployed on AWS：
 http://angularbuild-dy1.s3-website-us-west-2.amazonaws.com/
 
 # MeanCourse
